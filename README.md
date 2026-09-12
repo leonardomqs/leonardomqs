@@ -1,7 +1,7 @@
 ## Leonardo Garcia Marques
 
 Doutor em Engenharia Elétrica pela UFU, na linha de pesquisa em Inteligência
-Artificial, com pesquisa em programação genética e regressão simbólica —
+Artificial, com pesquisa em programação genética e regressão simbólica,
 técnicas que produzem modelos interpretáveis em vez de caixa-preta.
 
 Atuo com engenharia de dados em contextos onde a corretude é requisito:
